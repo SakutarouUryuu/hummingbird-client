@@ -63,7 +63,7 @@
     "ember-flickity": "vevix/ember-flickity#npm-vendor",
     "ember-fr-markdown-file": "^0.0.0",
     "ember-href-to": "1.11.2",
-    "ember-intl": "^2.24.1",
+    "ember-intl": "^2.26.0",
     "ember-intl-cp-validations": "^3.0.1",
     "ember-invoke-action": "1.4.0",
     "ember-load-initializers": "^1.0.0",
